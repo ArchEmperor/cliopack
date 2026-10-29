@@ -1,0 +1,1 @@
+[ERR] - Active environment 'NoSuchEnv' is not found in the registered environments. Run 'clio set-active-environment <name>' to fix this, or pass --environment <name>.

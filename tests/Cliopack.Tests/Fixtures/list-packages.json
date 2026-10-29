@@ -1,0 +1,5508 @@
+{
+  "schemaVersion": "1.0",
+  "ok": true,
+  "command": "list-packages",
+  "data": [
+    {
+      "Descriptor": {
+        "UId": "ae8519c2-2aac-4a00-aa61-b0ffaac99ea3",
+        "PackageVersion": "7.8.0",
+        "Name": "ActionsDashboard",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "02abeaad-7dcc-4f15-86c9-cd6090362e82",
+        "PackageVersion": "7.8.0",
+        "Name": "AnalyticsDashboard",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "1eefea8c-efe3-53d9-6397-3aac9cc9e785",
+        "PackageVersion": "7.8.0",
+        "Name": "Approval",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b8bc60f4-5aef-4760-bd1b-57d7cbc48143",
+        "PackageVersion": "7.8.0",
+        "Name": "Base_ENU",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "516f7ad2-afe0-4d38-bdc6-9e3e15a172ef",
+        "PackageVersion": "7.8.0",
+        "Name": "BaseProcessDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "062de047-62f1-4580-85e2-0417d450a3a8",
+        "PackageVersion": "7.8.0",
+        "Name": "BaseScoring",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "864d1545-a641-46c3-b866-e57bd6d39579",
+        "PackageVersion": "7.8.0",
+        "Name": "BpmonlineCloudIntegration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "02faab18-ad26-4636-ae5d-d4a010405ba9",
+        "PackageVersion": "7.8.0",
+        "Name": "BulkEmail",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7e09ae35-8d23-a42c-aacf-9f6b17a81c35",
+        "PackageVersion": "7.8.0",
+        "Name": "BusinessRuleDesigner7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "90cfe1be-635b-4ea1-8558-c0bb5ba4ee86",
+        "PackageVersion": "7.8.0",
+        "Name": "Calendar",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "6688415a-fadb-494e-a018-5618e8b6926e",
+        "PackageVersion": "7.8.0",
+        "Name": "CalendarBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "4e9b7aff-71f7-46eb-bad9-60cfdc0a54c2",
+        "PackageVersion": "7.8.0",
+        "Name": "CallMessagePublisher",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "74b9f4af-7233-4e6c-ad5f-a32149516edb",
+        "PackageVersion": "7.8.0",
+        "Name": "CampaignDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d91a721f-12f7-49f1-8ccc-84e7ddcd7276",
+        "PackageVersion": "7.8.0",
+        "Name": "CampaignElements",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d8f504c3-f4ca-46ea-bf1f-b301498f8017",
+        "PackageVersion": "7.8.0",
+        "Name": "CampaignElements.UI",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "888c43e4-303c-47a2-a2ad-0dbd75160f19",
+        "PackageVersion": "7.8.0",
+        "Name": "CampaignPlannerNew",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "f96c8402-9614-48d5-988e-1f34fea20081",
+        "PackageVersion": "7.8.0",
+        "Name": "Campaigns",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "10cb6199-40c6-4b6d-9d0e-500310d45f57",
+        "PackageVersion": "7.8.0",
+        "Name": "Case",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e38d2be4-2dbf-4145-843d-9f7d7c1cbc7a",
+        "PackageVersion": "7.8.0",
+        "Name": "CaseMarketing",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d6330a93-b88b-4e78-8576-55accfd9054f",
+        "PackageVersion": "7.8.0",
+        "Name": "CloudEmailService",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "76c2f1ba-2917-4eea-8bd0-e2cfd8cc3dde",
+        "PackageVersion": "7.8.0",
+        "Name": "Completeness",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "f99960ad-2fc8-45be-95d4-6c4ebca84ce8",
+        "PackageVersion": "",
+        "Name": "AcmeCommunications",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Customer",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "ea79f420-b18c-45bf-b941-78f40ce356ef",
+        "PackageVersion": "",
+        "Name": "AcmeCommunicationsMacros",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Customer",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e31fadc6-25a4-4b75-87a7-154b7a88bfb2",
+        "PackageVersion": "",
+        "Name": "AcmeCore",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Customer",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "fff4df72-9bbf-4ea0-8579-a29dbd42f6a4",
+        "PackageVersion": "",
+        "Name": "AcmeDynamicGroup",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Customer",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "f7fa275a-2b5a-43d8-89cf-b0063b3a7ee9",
+        "PackageVersion": "7.8.0",
+        "Name": "ContentBuilder",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "bf235681-3101-4477-b9c7-bbf4a31205be",
+        "PackageVersion": "7.8.0",
+        "Name": "Core",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "34a08715-d94b-478c-887e-dbb951baceeb",
+        "PackageVersion": "7.8.0",
+        "Name": "CoreLead",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "13d2cefd-6d54-4fbf-bc98-3189c659b5b1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtAIEmbedded",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "29cc7059-9bc1-0abb-b996-cc8f27d0709c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtAnalyticsDashboard",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "942cf87c-44d4-f25e-3a88-438377d1268a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBaseConsts",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "81a1f571-2ba6-fea5-5b08-ef0362a4ec97",
+        "PackageVersion": "",
+        "Name": "CrtBfUtilities",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c0d3728c-c226-0520-5fd1-539d30bac962",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBulkEmail",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b8073f39-be39-63e9-9e8a-f72aefa173f7",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBulkEmailCopilot",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "8013d4d9-4337-2f3f-db83-d270ebbd456a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBulkEmailEngine",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "39b7449b-d4a0-fa05-b5d1-5f572738ea83",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBulkEmailEngine7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e4d1a5d4-6f86-5c4b-0a7a-9f1490fdcedd",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBulkEmailEngineBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "243675c8-b31d-0dec-5336-2e282f5f48c1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBulkEmailInC360",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "99158cb9-b1b4-3a1d-beb0-7157e0414e73",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtC360InUiV2",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "8f97b9c3-0e5e-c366-1ded-8ec4dbcea788",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCalendar",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "59fcd7ad-b4b7-4239-941d-80df63b4c999",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCall",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "4edcd275-5e69-630b-1b85-5c2bcb84d7c4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCampaign",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "9fd0bb87-114e-ccd1-db16-3aca416966d9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCampaignDesigner7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a45704bf-95d0-bdbc-053f-26c2dbceb3f1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCampaignElements",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "ab43c9f3-8d3c-0d2d-3b57-35f135a10a74",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCampaignInC360",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "385110a0-9140-5ea5-186a-b82599cf664f",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCampaignUtils",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "0daea9e4-b08a-abb1-687e-7dc834448743",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCase7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "83b1062a-d944-eba7-a72b-5400034c6223",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagmentObject",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "2f47ab98-ef47-a742-be37-90c8020ce797",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCloudIntegration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a398c533-b7aa-96a3-b4e0-63c1513c2b0a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtComponentCopilot",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e01946ab-f1ea-1571-5211-d6f48e66b35d",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtContactToLeadInC360",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c870b4e8-b26c-4776-b695-288ade169344",
+        "PackageVersion": "0.1.0",
+        "Name": "CrtContentDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "0.1.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b45cdd71-ed26-12d9-9747-6950637e73c3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCopilot",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d0930f39-0240-7da1-bbf2-c54f103a3a1f",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCopilotStudio",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCoreBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b96a9618-8e5c-b17e-dfff-f7d8a179fd31",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCoreFilePreview",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c1a044a2-cb8c-9387-837b-d9ae9183cd47",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360AI",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "379003f3-74dc-4305-c4de-04f43be2bfb0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360Mobile",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "21eb20b7-e168-f6d0-f9b5-8127f9729e20",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDataForge",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "438290c5-0107-b9b9-a78e-74fa3af92817",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDeduplication",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "83533735-415d-cefc-423d-33fd9c4437f0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDefaultAIDataOps",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a3d14229-09c2-1028-012a-f5f66f934143",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDesignerTools",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "45b6c8fc-fe7d-3fca-edbc-ea6a07a0864c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDigitalAdsApp",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d9327c05-e844-d915-76a7-280e237e3c6a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDigitalAdsInC360",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "70dba663-02da-75c9-d7cd-7c0590bb4591",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDigitalAdsInLeadGen",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "be15b6c8-81d8-9b90-594c-529fafe8d3d0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDynamicContent",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "13a1913a-7cc2-35ab-f21d-733e0b65dd20",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDynamicContent7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a9937508-8708-4a27-a890-99a86b87cb77",
+        "PackageVersion": "1.0.0",
+        "Name": "CrtEmailDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "1.0.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3b96d881-1333-e177-7a65-70d1f546581b",
+        "PackageVersion": "",
+        "Name": "CrtEmailDesignerAI",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e5d55a14-c556-a7b2-27ee-9c359a69bb78",
+        "PackageVersion": "1.0.0",
+        "Name": "CrtEmailDesignerInEmailMarketing",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "1.0.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "1759db86-2b04-cb65-4ee5-8f6b76efddb3",
+        "PackageVersion": "",
+        "Name": "CrtEmailInCampaign",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "91ff5c91-35fa-724f-116b-030940960531",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEmailInCampaign7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "118b6763-9d84-5d6d-afca-b49a38900b42",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEmailInCampaignBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "0da83353-970c-ccc0-a7ff-792dafebbf70",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEmailMarketingApp",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c83be714-964b-a59b-b343-a9db276244da",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEmailSender",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a30121bf-bdff-36b8-79da-1419b5a04295",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEmailTemplate",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "0689cb35-c357-5d16-41a5-f4f474c67440",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEngagementInBulkEmail",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "cb733171-9867-1afe-c1af-c7457bcd8be0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEngagementInC360",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c5315c68-66d1-cd4d-7f67-995e1d2b4fa0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEngagementInCampaign",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "191c8ea8-bbb5-7cbd-b0f6-f281f796baf2",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEngagementInCampaign7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "48617545-4f2a-8616-d3f7-e13e60d80dc3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEngagementInCampaignBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "2729259f-af91-351a-882a-aaa5bdd53616",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEngagementToolsApp",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3712d7ab-dac5-cc2e-b8d7-a5d8b6aabf10",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEntityEventLog",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "0d13113a-287e-c0ff-f4f6-cf9ec5dddf35",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtESN",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "40407e3f-e2ec-4ff5-8b03-d9de5f7e5b7c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtESN7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b3a694fe-f6c8-2691-5a29-a6a51930b203",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEvent",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "1e385500-767f-1fe9-9471-68ce6d9147d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEventInC360",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "009fe918-ba63-10e1-3615-d242846391b9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEventInCampaign",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a93c2f2c-381d-e066-87a1-fbf58fd92024",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEventInCampaign7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5894b5ad-3c05-f840-8391-d703dad4fd26",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEventInCampaignBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "83301dd3-0384-48e1-2730-0ff1f53bec3c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEventInTouchPoint",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "78af8132-af08-1463-5188-53e0ea51340c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEventMarketingApp",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7854ba8d-8ec5-9cd9-4d9e-9bf01e18b865",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEventUtils",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "03073bf4-d6a7-152d-7145-522cd3fde185",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtFeatureToggling",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "07b7c667-503b-2a8b-59bb-10f110ee6879",
+        "PackageVersion": "",
+        "Name": "CrtFilterAgent",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "87c7fd1f-0222-2d29-e8bb-0fad41548d44",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtGeminiApiIntegraion",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5821163b-06e6-41d9-4dc4-4cfb9be530ec",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtGenAI",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3a290ac3-045c-e97f-7e5c-0875acb0ea6e",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtGoogleAnalytics",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5ad721a8-8d95-4981-916e-b282ca8ee5a9",
+        "PackageVersion": "0.1.0",
+        "Name": "CrtHTMLPageDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "0.1.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "4e73fa03-93ef-4f81-12f9-2182efad1e2a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtJunkFilter",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "4f32ddde-4848-a9f0-1a62-1b018a920e4d",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtKnowledgeAI",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "408fe390-2c3e-4702-5703-80e181a174b3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtKnowledgeManagementApp",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "215cedf9-0bfd-639a-9f7f-1b1340000f4a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtKnowledgeManagementObject",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "934551d2-2e0b-1dea-b0c7-962ccd94a422",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtKnowledgeManagementVersions",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "f30842e6-3387-46d9-a403-7fdddd3f1084",
+        "PackageVersion": "0.1.0",
+        "Name": "CrtLandingPage",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "0.1.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b4e3a361-3e83-4b4b-2500-406cb82e877f",
+        "PackageVersion": "",
+        "Name": "CrtLandingPageAnalytics",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "73049d2d-1942-8f45-628b-1afe0700c649",
+        "PackageVersion": "",
+        "Name": "CrtLandingPageInEngagementToolsApp",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "51a0fc55-ce4f-a533-0340-b70a0c04b905",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLead",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d30b5030-97e6-a570-93b7-4ad00696a8d9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLeadGenerationCopilot",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "1068568f-859b-b832-1332-368cfd23aab3",
+        "PackageVersion": "",
+        "Name": "CrtLeadGenLandingPage",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d7dfeac2-4a4b-c464-f0ef-7c3016fdab32",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLeadWebForm",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a65f88a0-33d8-4d2a-853c-55a6cf80bcbe",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLiveEditing",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e4172756-ee79-a5e3-be33-d5f5dd2f2b63",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLocalizationDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "770dc51c-891a-7c39-d5b1-7f312aa8ff11",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMacrosBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "cb1fc096-cd82-0672-62f1-0668a5a53771",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtManagers7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c971e656-3ac5-c191-2e0a-2ca3189af108",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMarketingBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "cfb1a784-a7be-1c59-2ce0-61005490fd0b",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMarketingBase7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "4a0f42e7-14ff-c7bf-9b4a-4535d149d6e1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMarketingCampaignsApp",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a098811e-2305-05ca-3ad1-39a8207d0f15",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMarketingInC360",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "300d39e1-2f5d-7a4c-3b11-782b206e3e57",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMatomoConnector",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "787ad917-aee4-f583-3cd7-77806d25542a",
+        "PackageVersion": "",
+        "Name": "CrtMessage",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "808f1684-de0a-e148-c331-2ace1df619de",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtML",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "81cb4000-b73f-c170-40d8-84e3f0db46aa",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMLangContent",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "47ae1ea6-e608-a3fd-44ac-18726f40438c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMLLeadConversion",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c23745e0-6733-1fc6-1dd7-ca9898fc0ed6",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMLLeadScoring",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "0385d47d-7cee-e231-2476-54846fa305ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMobile7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "16d6c866-8a77-5b2f-aec6-9147c219f4e1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMobileDesignerTools7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7134380f-e5b7-e549-7c32-52a64420458b",
+        "PackageVersion": "",
+        "Name": "CrtMobileFreedomUIStylesFor7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "26bd10e9-2ff8-1ddd-4777-aecd534cccd6",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtNextStep",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "422cc048-65aa-8f90-e8ed-7fa6d5ab06b1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtNUI",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "13acb4fe-f6c8-ab4a-c721-a6a51550b301",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtOmnichannelApp",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7b8cc90f-3354-9b16-defe-bff33fc9cf26",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtPlatform7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "23bf62a7-f480-80cd-7ed4-0284df677bd5",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtPlaybook",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "29996b0e-2b19-27a8-dab4-67fbc00db573",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProcessDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "650ba69a-f061-ae66-b69b-aa0708ee0631",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProductBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "13b566ee-2796-51a0-b71b-6e477518f7c4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProductCatalogue",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "36c1a9a5-2dde-4fff-a39a-d2fadcab5bd4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProductivityApp",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "f21b418a-13a5-99a7-f4b8-ab8b88e5ce61",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProductivityCopilot",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b0c03b59-76ac-a65e-7d22-a87fb348e020",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProductivityMobile",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "1f6d3128-d0ab-d281-9eca-55466ac60db5",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProductSpecification",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5f6efbbc-f133-6106-e2e7-9ac0dd11af97",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSecurity",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "19d748b4-e70e-2b83-9fdb-a2ce33db8e18",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSecurity7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "40d665aa-9084-5098-8f7a-34d9918cb85e",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSmsIntegration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "1e2cd89f-0168-8634-c0cf-136ad2f8d9fc",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSocialLeadGen",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "4054de5c-91a4-6d40-7fad-e8dff26ee3a8",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSpecification",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c948d702-deef-50ec-f3e4-faba4824104a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtStudioCopilot",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b73db579-4662-434f-93cd-7736b3c794b4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTechnicalUsers",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b46c9a61-913a-06b3-3622-aa9e4e2f7aa9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTechUserCreatioALMIntegration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "55e49351-1c8c-26f3-bb58-9a7171e7c131",
+        "PackageVersion": "",
+        "Name": "CrtTechUserCreatioMaintenance",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "63489f66-da08-7adf-96b6-5ae8e5b258e5",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTechUserCreatioResKitUtility",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e7ebb62c-3c17-6f81-a467-8103566679ee",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTouchInWebForm",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "8ab6216e-2ead-415c-ced0-646049cca295",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTouchPoint",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "8b6bb6b6-6df7-62f4-4265-19270949be8b",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTouchPoint7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3857e21f-67c4-2b68-5b08-56a6557c017e",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTouchPointBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "523a5df5-77ae-638f-670d-dcf11222dfa3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTouchPointCompat",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3c5755e6-19fe-aa4b-2b66-f042137159f0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTouchPointInC360",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "0a3cf440-a7af-a37f-98e9-e16f919f572e",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTouchPointInLead",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7fba660f-99e6-75e0-733b-810c7f75b725",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTranslateProviders",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a29cc251-c79b-779e-1951-6a0eb42bbc9f",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTranslation",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "70ff4e5f-d0af-6a9b-e063-f7171aac2c42",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIPlatform",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "f4ba33cf-5a6c-ccc0-f401-cb6bb16c1039",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIPlatform7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "042f8a2c-22b9-ca98-1d40-a511fcc54b7b",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUISwitcher",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a17d52e6-97ab-6f7f-17aa-f0e197e488ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIv2",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "de3533b3-0096-0486-1463-da8bebe5dc3f",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUserLevelSchema",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "faf84bb8-9503-685e-beb1-328db75daf59",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtWebFarm",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "f653ac8c-1b37-7d99-2b3c-4ef81cf62db2",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtWebForm",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "75d5a9cd-2c5f-4232-3526-995c0c15af3a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtWebFormBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7e0f4aa7-fc71-5da6-a56e-6de9188748ce",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtWebhookServiceBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "708b1c13-26c8-e77f-ec94-f3ac840ad588",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtWebTrackingBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e7052dfc-0e33-c838-b00e-78ddcc004690",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtWizards7x",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "71ac8fee-9abc-021a-2cd0-ead17fe5d9f9",
+        "PackageVersion": "7.8.0",
+        "Name": "CSP",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5048abef-9ed6-4a50-97bd-e91dea4ac632",
+        "PackageVersion": "7.8.0",
+        "Name": "CTIBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "22c5e4a0-49e8-4e6b-97e8-c22ed249b85a",
+        "PackageVersion": "7.8.0",
+        "Name": "CTIVirtualProvider",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+        "PackageVersion": "",
+        "Name": "Custom",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Customer",
+        "DependsOn": null
+      },
+      "Version": null,
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7252c5e2-120b-47c9-bcf7-260367039743",
+        "PackageVersion": "7.8.0",
+        "Name": "DcmDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b1eb54a2-9569-45de-81cb-a24654c09264",
+        "PackageVersion": "7.8.0",
+        "Name": "DcmLibrary",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b5967e5d-641c-4d1f-ad1d-a02f69fcc776",
+        "PackageVersion": "7.8.0",
+        "Name": "Deduplication",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c2518826-60a9-40d4-bd14-6add9d35d320",
+        "PackageVersion": "7.8.0",
+        "Name": "DesignerTools",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "9ab66d86-85ec-440f-a962-dbab7533c921",
+        "PackageVersion": "7.8.0",
+        "Name": "DynamicContent",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "08c80cf3-52f3-43fa-b450-d1815fb07619",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailMessagePublisher",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "468413c6-da9a-4bae-a3e9-31456fea166d",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailMining",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "cdb56ffb-07c3-4603-9014-7c383fad59c2",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailsSearch",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "8bbee491-7461-4bb3-86e3-e2dc29ae02df",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailTemplate",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "926d8678-32f2-4b39-bcd1-fcc5382accbb",
+        "PackageVersion": "7.8.0",
+        "Name": "Enrichment",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "90ef497e-6e18-440d-b80e-d28f2f133509",
+        "PackageVersion": "7.8.0",
+        "Name": "ESN",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "542c6647-bf72-4fb4-9ee5-eed4ca062ae2",
+        "PackageVersion": "7.8.0",
+        "Name": "EventTracking",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b8c22230-2173-426f-959e-be736709a63f",
+        "PackageVersion": "7.8.0",
+        "Name": "Exchange",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "9dcadb21-84b9-478a-b8f5-05f1208e874a",
+        "PackageVersion": "7.8.0",
+        "Name": "ExchangeListener",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "9349cc70-f6f3-4751-8414-c10a1e5ba62a",
+        "PackageVersion": "7.8.0",
+        "Name": "ExternalAccess",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b3453ab1-aec4-40a6-87ef-ffe4ef3ae4ee",
+        "PackageVersion": "7.8.0",
+        "Name": "FacebookIntegration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "717ae717-4556-4ed5-9675-3ab7d3c2eeb5",
+        "PackageVersion": "7.8.0",
+        "Name": "FeatureToggling",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5932ac85-0d31-43c8-aeef-8b7dc5b56f60",
+        "PackageVersion": "7.8.0",
+        "Name": "FileImport",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "cda68d34-0d3b-470f-d64e-ee0a923a7139",
+        "PackageVersion": "7.8.0",
+        "Name": "Finesse",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "09869c10-1e01-f34c-e963-d3f5290feef6",
+        "PackageVersion": "7.8.0",
+        "Name": "FolderTree",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "ae73ba70-bd5e-4c4b-9977-df0e3e782102",
+        "PackageVersion": "7.8.0",
+        "Name": "GlobalSearch",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "0fbe5e70-0ba1-4c52-b35d-ca1c4a3acde7",
+        "PackageVersion": "7.8.0",
+        "Name": "GoogleTagManagerMeasurements",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7f8469ff-cb9b-40f6-a5f5-6aa3ddded07a",
+        "PackageVersion": "7.8.0",
+        "Name": "HomePage",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5287f356-5147-466d-af37-d408f89e5466",
+        "PackageVersion": "7.8.0",
+        "Name": "IntegrationV2",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a613d152-0fec-4a58-9f9e-df4b7244f72c",
+        "PackageVersion": "7.8.0",
+        "Name": "JunkFilter",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "eb74c841-b4d1-4bf3-a489-300c0a0f7133",
+        "PackageVersion": "7.8.0",
+        "Name": "KnowledgeBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "dbd30bbd-d48a-e32a-4b7b-79049bc56ee6",
+        "PackageVersion": "7.8.0",
+        "Name": "LandingiIntegration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "bb1e143e-f3ee-4316-9450-851ddd02d999",
+        "PackageVersion": "7.8.0",
+        "Name": "LDAP",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "689fd58d-357b-4882-a93c-b72f0e56738d",
+        "PackageVersion": "7.8.0",
+        "Name": "Lead",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c53df329-0dce-9c48-0e67-6a557846ba3d",
+        "PackageVersion": "7.8.0",
+        "Name": "LeadManagement",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "32986af5-84d9-4842-854e-9e8187522253",
+        "PackageVersion": "7.8.0",
+        "Name": "LinkPreview",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c6c3f6c4-2d46-41ea-a8dd-6513889b2185",
+        "PackageVersion": "7.8.0",
+        "Name": "Mailing",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "99e69b3f-057b-4163-9247-fdd98287561f",
+        "PackageVersion": "7.8.0",
+        "Name": "Managers",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "548b7d51-8c4b-4bbf-915a-ff8064be2c57",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingCalendarNew",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "789c617e-760f-4576-a608-ee12728eae0a",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingCampaign",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d3fb7050-1dbb-4737-acb0-5bf0c6ac2d30",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingCampaignMobile",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "883305e0-1bdc-497c-a518-bbe2bd7bf1c3",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingCommon",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a5da1dcd-42a5-4b11-bc6f-19789d7ad32a",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingEssentialEnu",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "78ae52a2-7d50-48a5-9d4e-9cbec55c3d67",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingSoftkeyEnu",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "19ffbb3e-f1b4-4636-999c-1e2c57d86eb6",
+        "PackageVersion": "7.8.0",
+        "Name": "Message",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d6d45b89-09e8-468a-ae9d-3db6774b82a2",
+        "PackageVersion": "7.8.0",
+        "Name": "MessagePublisher",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "003be62f-2ffc-4b4f-a2a7-60f101277377",
+        "PackageVersion": "7.8.0",
+        "Name": "ML",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e4d60e92-f11e-472c-98fc-0651d5891aba",
+        "PackageVersion": "7.8.0",
+        "Name": "MLangContent",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "02947595-4670-48e3-80ea-f278e3c9391c",
+        "PackageVersion": "7.8.0",
+        "Name": "MLBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "e8689230-27b1-4f48-a395-adb81cbc07b3",
+        "PackageVersion": "7.8.0",
+        "Name": "MLLeadScoring",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "31e14e51-cc95-7873-9385-29c34642bde2",
+        "PackageVersion": "7.8.0",
+        "Name": "MLProcessDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5496275d-2f56-4810-b46b-7098f10815d5",
+        "PackageVersion": "7.8.0",
+        "Name": "MLRegression",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "ca913451-6567-42ea-a53d-63b841c80e2b",
+        "PackageVersion": "7.8.0",
+        "Name": "MLScoring",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "326543f4-25dd-66e2-ba56-0192de3be569",
+        "PackageVersion": "7.8.0",
+        "Name": "MLSequencePrediction",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "8d4f0b39-6e71-4203-9ec9-a5f19ea75da2",
+        "PackageVersion": "7.8.0",
+        "Name": "MLTextSimilarity",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7ecd2886-795a-4933-9ffb-5358f353a555",
+        "PackageVersion": "7.8.0",
+        "Name": "Mobile",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3c128921-97b8-4703-b2b9-78ff1b1a5d80",
+        "PackageVersion": "7.8.0",
+        "Name": "MobileDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "9e46f14d-4cea-4d67-987a-e74ae0330c25",
+        "PackageVersion": "7.8.0",
+        "Name": "OAuth20",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "90f7bc4e-bfce-44f6-99ce-41d02274d4f5",
+        "PackageVersion": "7.8.0",
+        "Name": "OAuth20Integration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "8d48ade0-350e-7694-49aa-2a913c356ce1",
+        "PackageVersion": "7.8.0",
+        "Name": "OldGoogleIntegration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "f9a361ad-8965-4c55-922a-d13d1bac8c39",
+        "PackageVersion": "7.8.0",
+        "Name": "OmnichannelMessaging",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d23f7020-5106-7e4c-cb76-76eb2b38e7e7",
+        "PackageVersion": "7.8.0",
+        "Name": "OpenIdAuth",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a17aca5a-e9c2-4c5b-a385-df9a3c0837e6",
+        "PackageVersion": "7.8.0",
+        "Name": "OSM",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "fbf9dd14-92d2-4e35-b193-e69ced12ae44",
+        "PackageVersion": "7.8.0",
+        "Name": "PivotTable",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3218e5ec-25c1-472b-9de0-1673e071a79f",
+        "PackageVersion": "7.8.0",
+        "Name": "Platform",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "36d65faf-3f18-1cae-d2cb-b71c4414d164",
+        "PackageVersion": "7.8.0",
+        "Name": "Playbook",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "6f46362b-0d60-47d7-b211-fc5e4117aecb",
+        "PackageVersion": "7.8.0",
+        "Name": "ProcessDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5e8400f1-2850-4048-bcfe-d1ac195bbe9e",
+        "PackageVersion": "7.8.0",
+        "Name": "ProcessLibrary",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "4a37386b-d976-41f8-a469-63bd93d24027",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3d3ced06-8d6d-4076-a213-68678ade00cd",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCatalogue",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "05e3bd13-d61c-4610-af15-eb6e6173ef60",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCoreMessagePublishers",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "122de71d-bd89-41d0-a7db-72d4d7525fbf",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductMarketing",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "4204dd64-db74-42cc-896b-6f690204c4e6",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductSpecification",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "1fb3f59e-2a65-3932-22f2-8196fd879dc5",
+        "PackageVersion": "7.8.0",
+        "Name": "QueryExecutionRules",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b8d3cee8-bfe1-4989-8461-886fff0dee74",
+        "PackageVersion": "7.8.0",
+        "Name": "RelationshipDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "eeed3091-51d9-472d-be26-eca02cd3a7d1",
+        "PackageVersion": "7.8.0",
+        "Name": "Reports",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "39d703cc-a16f-4e81-8304-304288ac685a",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceDesigner",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "5fa17185-77eb-462d-addc-1a6d2fbeb390",
+        "PackageVersion": "7.8.0",
+        "Name": "SiteEvent",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "4f133891-3afb-434f-a2e2-d1e22ac1dc67",
+        "PackageVersion": "7.8.0",
+        "Name": "SiteEventProductOmnichannel",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "9b5fa665-a941-91b5-209d-80dcb6015523",
+        "PackageVersion": "7.8.0",
+        "Name": "SocialLeadGen",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "7aba540c-a7dc-465e-8a22-54ef78fcb5a5",
+        "PackageVersion": "7.8.0",
+        "Name": "SocialMessagePublisher",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "dc36f898-47d7-4597-865d-0f1bcab7bf9c",
+        "PackageVersion": "7.8.0",
+        "Name": "SocialNetworkIntegration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "9d3e9a5a-4f41-4914-9d13-234a68da2aae",
+        "PackageVersion": "7.8.0",
+        "Name": "Specification",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "9863eb91-0a43-43db-9eaf-a91b1fc32e56",
+        "PackageVersion": "7.8.0",
+        "Name": "SsoSettings",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "82306a23-d5c6-420b-b81b-2d145f8e2f34",
+        "PackageVersion": "7.8.0",
+        "Name": "SSP",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "148ab29f-ee31-44cb-9d3d-883c69ca3d1e",
+        "PackageVersion": "7.8.0",
+        "Name": "SspKnowledgeBase",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "2a38dfee-ddf9-4e0f-9e97-47a4c6c42f29",
+        "PackageVersion": "7.8.0",
+        "Name": "SspWorkplace",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a5ae219e-4519-4a0e-88b1-a172f834baa5",
+        "PackageVersion": "7.8.0",
+        "Name": "TaskMessagePublisher",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "3efa1d97-299e-a860-39e3-426b251b4548",
+        "PackageVersion": "7.8.0",
+        "Name": "TasksQueue",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "9310225d-1ff8-45f2-9f34-9faf094d635a",
+        "PackageVersion": "7.8.0",
+        "Name": "Timeline",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "55c9e8f9-cc01-538b-9878-9326da9e7078",
+        "PackageVersion": "7.8.0",
+        "Name": "TouchPoints",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a8e51f21-207a-4f9c-b838-eac63f1669b5",
+        "PackageVersion": "7.8.0",
+        "Name": "Tracking",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "77e888d2-c4a4-45ce-a906-ac00adb364a2",
+        "PackageVersion": "7.8.0",
+        "Name": "Translation",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "8cefda2b-889f-4b69-bed1-f33bf7f6d00c",
+        "PackageVersion": "7.8.0",
+        "Name": "TwitterIntegration",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "916b2f81-4cb4-41b6-92e1-a3ea6fb4e7f7",
+        "PackageVersion": "7.8.0",
+        "Name": "VisaNotification",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "6651f29c-3f6e-4519-a8f4-127deb7515e2",
+        "PackageVersion": "7.8.0",
+        "Name": "WebForm",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "d0630866-24de-d11c-0a77-17914caefe54",
+        "PackageVersion": "7.8.0",
+        "Name": "WebhookService",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "68ee82f8-280b-40ce-951d-6e93d2945a8f",
+        "PackageVersion": "7.8.0",
+        "Name": "WebLeadForm",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "c3748e81-246e-4293-85a1-d88d3ab9ff4d",
+        "PackageVersion": "7.8.0",
+        "Name": "Wizards",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "b349edb3-5bd4-47cf-8269-e9d4145aa896",
+        "PackageVersion": "7.8.0",
+        "Name": "WordReporting",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "f665ef60-4483-4af1-acec-1b4a85d79e1c",
+        "PackageVersion": "7.8.0",
+        "Name": "Workplace",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    },
+    {
+      "Descriptor": {
+        "UId": "a09b5b3e-2464-ecbe-9993-0cd15f7efc80",
+        "PackageVersion": "7.8.0",
+        "Name": "XSSProtection",
+        "Type": 0,
+        "ProjectPath": "",
+        "ModifiedOnUtc": null,
+        "Maintainer": "Creatio",
+        "DependsOn": null
+      },
+      "Version": {
+        "IsStable": false,
+        "Suffix": "",
+        "Version": "7.8.0"
+      },
+      "PackagePath": "",
+      "FilePaths": [],
+      "PackageDescriptorPath": ""
+    }
+  ],
+  "error": null
+}

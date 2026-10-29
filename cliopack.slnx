@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Cliopack/Cliopack.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Cliopack.Tests/Cliopack.Tests.csproj" />
+  </Folder>
+</Solution>

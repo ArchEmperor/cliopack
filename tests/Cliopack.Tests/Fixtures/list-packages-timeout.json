@@ -1,0 +1,10 @@
+{
+  "schemaVersion": "1.0",
+  "ok": false,
+  "command": "list-packages",
+  "data": null,
+  "error": {
+    "code": "unexpected-error",
+    "message": "The operation was canceled. (WebException: Timeout)"
+  }
+}

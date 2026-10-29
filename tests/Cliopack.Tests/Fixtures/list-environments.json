@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "ok": true,
+  "command": "list-environments",
+  "data": [
+    {
+      "name": "Creatio",
+      "isActive": true,
+      "uri": "http://localhost:8080",
+      "dbName": null,
+      "backupFilePath": null,
+      "login": "Supervisor",
+      "password": "REMOVED",
+      "maintainer": null,
+      "isNetCore": false,
+      "clientId": null,
+      "clientSecret": null,
+      "authAppUri": null,
+      "simpleLoginUri": "http://localhost:8080/0/Shell/?simplelogin=true",
+      "safe": false,
+      "developerModeEnabled": null,
+      "isDevMode": false,
+      "workspacePathes": null,
+      "environmentPath": "",
+      "dbServerKey": null,
+      "dbServer": null
+    },
+    {
+      "name": "sample-dev",
+      "isActive": false,
+      "uri": "https://sample.example.com",
+      "dbName": null,
+      "backupFilePath": null,
+      "login": "Supervisor",
+      "password": "REMOVED",
+      "maintainer": null,
+      "isNetCore": false,
+      "clientId": null,
+      "clientSecret": null,
+      "authAppUri": null,
+      "simpleLoginUri": "https://sample.example.com/0/Shell/?simplelogin=true",
+      "safe": false,
+      "developerModeEnabled": null,
+      "isDevMode": false,
+      "workspacePathes": null,
+      "environmentPath": "",
+      "dbServerKey": null,
+      "dbServer": null
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,7 @@
+[
+  {"UId": "0689cb35-c357-5d16-41a5-f4f474c67440", "ModifiedOn": "2023-09-08T08:43:15", "DependsOn": "CrtWebTrackingBase"},
+  {"UId": "0689cb35-c357-5d16-41a5-f4f474c67440", "ModifiedOn": "2023-09-08T08:43:15", "DependsOn": "CrtBulkEmail"},
+  {"UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a", "ModifiedOn": "2025-11-07T18:15:12", "DependsOn": "CrtCore"},
+  {"UId": "e24226f9-c177-458f-af34-9338e2699983", "ModifiedOn": "2026-09-11T18:55:03", "DependsOn": "Base"},
+  {"UId": "bf235681-3101-4477-b9c7-bbf4a31205be", "ModifiedOn": "2024-11-19T15:35:31", "DependsOn": null}
+]

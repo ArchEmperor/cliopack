@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- Lowercase so published binaries match the command on case-sensitive systems. -->
+    <AssemblyName>cliopack</AssemblyName>
+    <RootNamespace>Cliopack</RootNamespace>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>cliopack</ToolCommandName>
+    <PackageId>cliopack</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>ArchEmperor</Authors>
+    <Description>TUI for pulling packages from Creatio environments via clio</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/ArchEmperor/cliopack</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ArchEmperor/cliopack</RepositoryUrl>
+    <PackageTags>creatio;clio;tui;cli;packages</PackageTags>
+    <!-- Trim and AOT analyzers on every build, so a reflection call fails here and not in a published binary. -->
+    <IsAotCompatible>true</IsAotCompatible>
+    <!-- One native package per platform behind a pointer package; `any` is the framework-dependent fallback.
+         AOT packs only on the matching OS: `dotnet pack -r <rid>` there, plain `dotnet pack` for the pointer and `any`. -->
+    <PublishAot>true</PublishAot>
+    <ToolPackageRuntimeIdentifiers>win-x64;linux-x64;linux-arm64;osx-x64;osx-arm64;any</ToolPackageRuntimeIdentifiers>
+    <!-- The native .pdb is ~50 MB; keep it out of packages and release archives. -->
+    <CopyOutputSymbolsToPublishDirectory>false</CopyOutputSymbolsToPublishDirectory>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../../README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Terminal.Gui" />
+    <PackageReference Include="CliWrap" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="Cliopack.Tests" />
+  </ItemGroup>
+
+</Project>
