@@ -1,0 +1,95 @@
+name: release
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: read
+
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.version.outputs.version }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-dotnet@v6
+        with:
+          dotnet-version: 10.0.x
+      # The csproj holds the version; the tag only triggers the release.
+      - id: version
+        run: |
+          version=$(dotnet msbuild src/Cliopack -getProperty:Version)
+          [ "v$version" = "$GITHUB_REF_NAME" ] || { echo "::error::Tag $GITHUB_REF_NAME does not match csproj version $version"; exit 1; }
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+
+  # Native AOT builds only on its own OS; it cross-compiles between architectures, so osx-x64 runs on arm64.
+  native:
+    needs: version
+    strategy:
+      matrix:
+        include:
+          - { rid: win-x64, os: windows-latest }
+          - { rid: linux-x64, os: ubuntu-latest }
+          - { rid: linux-arm64, os: ubuntu-24.04-arm }
+          - { rid: osx-arm64, os: macos-latest }
+          - { rid: osx-x64, os: macos-latest }
+    runs-on: ${{ matrix.os }}
+    env:
+      ARCHIVE: cliopack-${{ needs.version.outputs.version }}-${{ matrix.rid }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-dotnet@v6
+        with:
+          dotnet-version: 10.0.x
+      - if: runner.os == 'Linux'
+        run: sudo apt-get update && sudo apt-get install -y clang zlib1g-dev
+      - run: dotnet publish src/Cliopack -c Release -r ${{ matrix.rid }} -o dist
+      - run: dotnet pack src/Cliopack -c Release -r ${{ matrix.rid }} -o nupkg
+      - if: runner.os == 'Windows'
+        run: Compress-Archive -Path dist/* -DestinationPath "$env:ARCHIVE.zip"
+      - if: runner.os != 'Windows'
+        run: tar -czf "$ARCHIVE.tar.gz" -C dist .
+      - uses: actions/upload-artifact@v7
+        with:
+          name: ${{ matrix.rid }}
+          path: |
+            cliopack-*
+            nupkg/*.nupkg
+
+  publish:
+    needs: [version, native]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # GitHub Release
+      id-token: write   # NuGet trusted publishing
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-dotnet@v6
+        with:
+          dotnet-version: 10.0.x
+      # The pointer package and the framework-dependent fallback build on any OS.
+      - run: |
+          dotnet pack src/Cliopack -c Release -o nupkg
+          dotnet pack src/Cliopack -c Release -r any -o nupkg
+      - uses: actions/download-artifact@v8
+        with:
+          merge-multiple: true
+      - uses: NuGet/login@v1
+        id: nuget
+        with:
+          user: ${{ secrets.NUGET_USER }}
+      # Platform packages first: the pointer must not go live before what it points to.
+      - env:
+          NUGET_API_KEY: ${{ steps.nuget.outputs.NUGET_API_KEY }}
+          POINTER: nupkg/cliopack.${{ needs.version.outputs.version }}.nupkg
+        run: |
+          for package in nupkg/*.nupkg; do
+            [ "$package" = "$POINTER" ] && continue
+            dotnet nuget push "$package" --api-key "$NUGET_API_KEY" --source https://api.nuget.org/v3/index.json --skip-duplicate
+          done
+          dotnet nuget push "$POINTER" --api-key "$NUGET_API_KEY" --source https://api.nuget.org/v3/index.json --skip-duplicate
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" cliopack-* --title "$GITHUB_REF_NAME" --generate-notes

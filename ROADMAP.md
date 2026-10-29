@@ -97,8 +97,8 @@ Manual check: the AOT binary's TUI passed on Windows.
 
 - [x] Package metadata (MIT, ArchEmperor, 0.1.0, README in the package), LICENSE
 - [x] History squashed into an initial release commit
-- [ ] CI: build, test, format on Windows and Linux for every push and PR
-- [ ] Release on a `v*` tag: native archives on GitHub Releases, packages pushed to NuGet via trusted publishing
+- [x] CI: test and format on Windows and Linux for every push and PR (`ci.yml`). Tests also pass in a Linux container
+- [x] Release on a `v*` tag (`release.yml`): native archives on GitHub Releases, packages pushed to NuGet via trusted publishing. Linux AOT pack and install checked in Docker; the workflows pass actionlint but have not run on GitHub yet
 - [ ] Repository public, nuget.org trusted publishing policy, first tag `v0.1.0`
 
 ## Decisions

@@ -21,6 +21,13 @@ dotnet pack src/Cliopack -c Release -r win-x64 -o nupkg     # native tool packag
 # Git Bash drops ProgramFiles(x86), so AOT cannot find vswhere: put "/c/Program Files (x86)/Microsoft Visual Studio/Installer" on PATH
 ```
 
+## Release
+
+- `ci.yml`: test and format on Linux and Windows for every push to master and every PR.
+- `release.yml` on a `v*` tag: checks the tag against `<Version>` in `src/Cliopack/Cliopack.csproj`, builds Native AOT per RID on a matching runner, pushes the platform packages, then the `any` fallback, then the pointer package to NuGet (trusted publishing, secret `NUGET_USER`), and attaches the archives to a GitHub Release.
+- To release: bump `<Version>`, commit, `git tag v<version>`, push the tag. Pushes use `--skip-duplicate`, so a failed run can be re-run.
+- Checked locally in Docker: tests on Linux (`mcr.microsoft.com/dotnet/sdk:10.0`), Linux AOT publish, pack and install (`sdk:10.0-noble-aot`). The Docker engine here takes no Windows paths: stream the source with `git archive HEAD | docker run -i ...`.
+
 ## Layout
 
 ```
