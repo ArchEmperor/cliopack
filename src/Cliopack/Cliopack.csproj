@@ -10,7 +10,7 @@
     <PackageId>cliopack</PackageId>
     <Version>0.1.0</Version>
     <Authors>ArchEmperor</Authors>
-    <Description>TUI for pulling packages from Creatio environments via clio</Description>
+    <Description>Terminal UI and CLI for pulling packages from Creatio environments via clio. Requires clio 8.1+ on PATH.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageProjectUrl>https://github.com/ArchEmperor/cliopack</PackageProjectUrl>
